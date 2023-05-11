@@ -19,9 +19,12 @@
 [submodule "Sensors/SensorAggregator/MicroAPI"]
 	path = Sensors/SensorAggregator/MicroAPI
 	url = git@github.com:marchanero/emosys-sensor_aggregator-microAPI.git
-[submodule "api"]
-	path = api
+[submodule "API"]
+	path = API
 	url = git@github.com:marchanero/Emosys-API-Control.git
 [submodule "web"]
 	path = web
 	url = git@github.com:marchanero/Emosys-WebControl-vue3.git
+[submodule "LSL"]
+	path = LSL
+	url = git@github.com:marchanero/Emosys-LSL.git
