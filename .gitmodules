@@ -1,0 +1,27 @@
+[submodule "SensorsEmulator"]
+	path = SensorsEmulator
+	url = git@github.com:marchanero/Emosys-Sensors.git
+[submodule "Infrastructure"]
+	path = Infrastructure
+	url = git@github.com:marchanero/Emosys-Ansible-Infrastructure.git
+[submodule "Sensors/ECG-v0.0.1"]
+	path = Sensors/ECG-v0.0.1
+	url = git@github.com:marchanero/emosys-ecg_sensor.git
+[submodule "Sensors/Empatica/mqtt_publisher"]
+	path = Sensors/Empatica/mqtt_publisher
+	url = git@github.com:marchanero/empaticaE4_mqtt_publisher.git
+[submodule "Sensors/Empatica/mqtt-Suscriber"]
+	path = Sensors/Empatica/mqtt-Suscriber
+	url = git@github.com:marchanero/emosys-mqtt-suscriber.git
+[submodule "Sensors/SensorAggregator/ConfigPanel"]
+	path = Sensors/SensorAggregator/ConfigPanel
+	url = git@github.com:marchanero/emosys-sensor_aggregator-config_panel.git
+[submodule "Sensors/SensorAggregator/MicroAPI"]
+	path = Sensors/SensorAggregator/MicroAPI
+	url = git@github.com:marchanero/emosys-sensor_aggregator-microAPI.git
+[submodule "api"]
+	path = api
+	url = git@github.com:marchanero/Emosys-API-Control.git
+[submodule "web"]
+	path = web
+	url = git@github.com:marchanero/Emosys-WebControl-vue3.git
