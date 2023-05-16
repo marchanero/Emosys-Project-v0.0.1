@@ -1,6 +1,3 @@
-[submodule "SensorsEmulator"]
-	path = SensorsEmulator
-	url = git@github.com:marchanero/Emosys-Sensors.git
 [submodule "Infrastructure"]
 	path = Infrastructure
 	url = git@github.com:marchanero/Emosys-Ansible-Infrastructure.git
@@ -28,3 +25,9 @@
 [submodule "LSL"]
 	path = LSL
 	url = git@github.com:marchanero/Emosys-LSL.git
+[submodule "Sensors/EEG"]
+	path = Sensors/EEG
+	url = git@github.com:marchanero/Emosys-EEG-Agent.git
+[submodule "Sensors/FNIRS"]
+	path = Sensors/FNIRS
+	url = git@github.com:marchanero/Emosys-fNIRS-Agent.git
