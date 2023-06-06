@@ -31,6 +31,12 @@
 [submodule "Sensors/FNIRS"]
 	path = Sensors/FNIRS
 	url = git@github.com:marchanero/Emosys-fNIRS-Agent.git
+<<<<<<< HEAD
+[submodule "Sensors/EmpaticaE4-Agent"]
+	path = Sensors/EmpaticaE4-Agent
+	url = git@github.com:marchanero/Emosys-Empatica-Agent.git
+=======
 [submodule "Sensors/GSR-Agent"]
 	path = Sensors/GSR-Agent
 	url = git@github.com:marchanero/Empatica-GSR-agent.git
+>>>>>>> main

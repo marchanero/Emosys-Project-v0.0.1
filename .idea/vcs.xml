@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Infrastructure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LSL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensors/ECG-Agent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensors/ECG-v0.0.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensors/EEG" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensors/Empatica/mqtt-Suscriber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensors/Empatica/mqtt_publisher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensors/EmpaticaE4-Agent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensors/FNIRS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensors/GSR-Agent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensors/SensorAggregator/ConfigPanel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sensors/SensorAggregator/MicroAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web" vcs="Git" />
+  </component>
+</project>
